@@ -2,42 +2,24 @@ import { useState, useMemo } from "react";
 
 
 
-Const C = {
-
-  Primary:   “#A31A61”,
-
-  Secondary: “#160F41”,
-
-  Tertiary:  “#9FDCEE”,
-
-  Quat:      “#D2006E”,
-
-  Bg:        “#FFFFFF”,
-
-  bgSoft:    “#F8F5FB”,
-
-  border:    “#E6DDF0”,
-
-  text:      “#160F41”,
-
-  textMid:   “#3D2F6B”,
-
-  textSoft:  “#7ª6E9A”,
-
-  textLight: “#B0A8CC”,
-
-  success:   “#0B6B40”,
-
-  successBg: “#E6F5EE”,
-
-  error:     “#B91C1C”,
-
-  errorBg:   “#FEE2E2”,
-
-  warnBg:    “#FEF3C7”,
-
-  warnText:  “#78350F”,
-
+const C = {
+  primary: "#A31A61",
+  secondary: "#160F41",
+  tertiary: "#9FDCEE",
+  quat: "#D2006E",
+  bg: "#FFFFFF",
+  bgSoft: "#F8F5FB",
+  border: "#E6DDF0",
+  text: "#160F41",
+  textMid: "#3D2F6B",
+  textSoft: "#7A6E9A",
+  textLight: "#B0A8CC",
+  success: "#0B6B40",
+  successBg: "#E6F5EE",
+  error: "#B91C1C",
+  errorBg: "#FEE2E2",
+  warnBg: "#FEF3C7",
+  warnText: "#78350F",
 };
 
 
